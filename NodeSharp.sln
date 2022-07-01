@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeSharp.Base", "NodeSharp.Base\NodeSharp.Base.csproj", "{5B3C3859-17FC-4B17-AAB0-9ECF1313E1BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeSharp.Avalonia", "NodeSharp.Avalonia\NodeSharp.Avalonia.csproj", "{CE177A88-E45B-4CC8-BFF1-0E004BB4C160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeSharp.Demo", "NodeSharp.Demo\NodeSharp.Demo.csproj", "{EB711427-4751-4769-90CF-FF20726016AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B3C3859-17FC-4B17-AAB0-9ECF1313E1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3C3859-17FC-4B17-AAB0-9ECF1313E1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3C3859-17FC-4B17-AAB0-9ECF1313E1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3C3859-17FC-4B17-AAB0-9ECF1313E1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE177A88-E45B-4CC8-BFF1-0E004BB4C160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE177A88-E45B-4CC8-BFF1-0E004BB4C160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE177A88-E45B-4CC8-BFF1-0E004BB4C160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE177A88-E45B-4CC8-BFF1-0E004BB4C160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB711427-4751-4769-90CF-FF20726016AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB711427-4751-4769-90CF-FF20726016AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB711427-4751-4769-90CF-FF20726016AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB711427-4751-4769-90CF-FF20726016AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
